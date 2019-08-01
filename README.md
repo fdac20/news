@@ -198,7 +198,7 @@ These apply to real life, as well.
 As a programmer you will never write anything from scratch, but will
 reuse code, frameworks, or ideas.  You are encouraged to
 learn from the work of your peers. However, if you don't try to do
-it yourself, you will not learn. [Deliberate practice][deliberate-practice]
+it yourself, you will not learn. [deliberate-practice](https://web.archive.org/web/20190801180936/https://psy.fsu.edu/faculty/ericssonk/ericsson.exp.perf.html)
 (activities designed for the sole purpose of effectively improving
 specific aspects of an individual's performance) is the only way to
 reach perfection.
@@ -247,7 +247,6 @@ This class assumes you are confident with this material, but in case you need a 
 
 <!-- Links -->
 [docker]:http://www.eecs.utk.edu/resources/it/kb/docker
-[deliberate-practice]:(https://web.archive.org/web/20190801180936/https://psy.fsu.edu/faculty/ericssonk/ericsson.exp.perf.html)
 [pull-request]:https://help.github.com/articles/creating-a-pull-request
 [create-repo]: https://help.github.com/articles/create-a-repo
 [forking]: https://guides.github.com/activities/forking/
