@@ -13,7 +13,11 @@
 
 # Class on Aug 21
    - Create your github account 
-     - Go through the fork students create your utid.md file providing your name and interests: see Audris.md for inspiration, and also provide your  utid.key with your public ssh key.
+      - fork repo students 
+      - create your utid.md file providing your name and interests:
+        see Audris.md for inspiration, and also provide your
+        utid.key with your public ssh key.
+	  - submit a pull request to fdac19/students
    - Make sure you do it during the class so we can start ready Aug 23
 
 # Class [video recordings](https://drive.google.com/open?id=1o-se-OxN1f1llAX35mzzR00q2261JfGp)

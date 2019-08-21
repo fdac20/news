@@ -1,4 +1,4 @@
-## Initial setup: to be done by Aug 23
+## Initial setup
 
 1. GitHub
    * Sign up for [GitHub](https://github.com/) if not already signed
@@ -42,8 +42,8 @@ sure I know to look at it sooner.
      * create .ssh/config
     	1. create ~/.ssh/config
         ```
-         host da2
-            hostname da2.eecs.utk.edu
+         host da0
+            hostname da0.eecs.utk.edu
             port YOURPORT #from students/ports.md
             user YOURNETID
             LocalForward 8888 127.0.0.1:8888
@@ -57,10 +57,10 @@ sure I know to look at it sooner.
          ```
           chmod -R og-rwx ~/.ssh
          ```
-        1. ssh da2
+        1. ssh da0
     * Or ssh directly 
       ```
-       ssh -pYOURPORT -L8888:localhost:8888 -i ~/.ssh/id_rsa yournetid@da2.eecs.utk.edu
+       ssh -pYOURPORT -L8888:localhost:8888 -i ~/.ssh/id_rsa yournetid@da0.eecs.utk.edu
       ```
 
   * Putty is a common ssh client for windows
