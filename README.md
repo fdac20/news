@@ -39,7 +39,8 @@
 * ** MK-524   10:10-11:00 MWF**
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
 * **TA:** Preston Provins [pprovins@vols.utk.edu](mailto:pprovins@vols.utk.edu) office hours available upon request
-* **TA:** David Kennard [dkennard@vols.utk.edu](mailto:dkennard@vols.utk.edu) office hours TBD 
+* **TA:** David Kennard [dkennard@vols.utk.edu](mailto:dkennard@vols.utk.edu) 
+	* office hours Wednesday: 2:30PM - 4:30PM, Thursday: 1:00PM - 3:00PM, Friday: 2:30PM - 4:30PM 
 * [** Syllabus **](https://github.com/fdac19/news/blob/master/course.pdf)
 * **Need help?**
 
