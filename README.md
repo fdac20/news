@@ -1,7 +1,14 @@
+# Class on Aug 30
+   - As of 9PM Aug 26: Practice0 is open for cloning/completion
+
+
+# Class on Aug 28
+   - Lecture explaining key technologies used in the class
 
 # Class on Aug 26
-   - As of 9PM Aug 26: Practice0 is open for cloning/completion
-   - Finish the lecture on the background for the class
+   - Please submit the pull request (TAs will be in the class to help)
+   - TAs will help you set up ssh/putty so that you can access
+     jupyter notebooks
    - Make sure ssh/putty setup works
    - [Full details](https://github.com/fdac19/news/blob/master/Preliminary.md)
 
