@@ -67,7 +67,7 @@ sure I know to look at it sooner.
   * [Instructions on how to generate ssh key running windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows) 
        1. Also see [this issue](https://github.com/fdac19/news/issues/1) (thanks @mkramer6) ![public ssh key from puttygen](https://github.com/fdac19/news/blob/master/puttykey.png "public ssh key from puttygen") 
        1. Save the private key and use it in your putty ssh session
-       1. Copy the public key (highlited in the image) to add to the list.txt 
+       1. Copy the public key (highlited in the image) to add to the yournetid.key 
        1. Now work on creating and saving session: start putty and go to connection/ssh/tunnels, enter source and destination and click *add*
        1. ![port forwarding](https://github.com/fdac19/news/blob/master/puttyport.png "select port forwarding")
 
