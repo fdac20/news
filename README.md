@@ -1,6 +1,10 @@
-# Class on Aug 30
+# Class on Aug 30: Attend only if you need help with Practice0
    - As of 9PM Aug 28: Practice0 is open for cloning/completion
-
+   - Attend ony if you need help with Practice0 task. It involves a number of steps, and if you get stuck on any of them please 
+       - Open an issue, 
+       - Ask TAs to help before the class, 
+       - Come to class and TA will be there to help, or 
+       - Join a zoom session (connection on the news page) I'll be there to answer your questions     
 
 # Class on Aug 28
    - Lecture explaining key technologies used in the class
