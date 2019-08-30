@@ -62,8 +62,11 @@ sure I know to look at it sooner.
       ```
        ssh -pYOURPORT -L8888:localhost:8888 -i ~/.ssh/id_rsa yournetid@da0.eecs.utk.edu
       ```
+  * Windows 10 has ubuntu subsystem: use that please
+https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_overview
 
-  * Putty is a common ssh client for windows
+
+  * Putty is an ssh client for earlier versions of windows, please avoid if you have Win10 or later
   * [Instructions on how to generate ssh key running windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows) 
        1. Also see [this issue](https://github.com/fdac19/news/issues/1) (thanks @mkramer6) ![public ssh key from puttygen](https://github.com/fdac19/news/blob/master/puttykey.png "public ssh key from puttygen") 
        1. Save the private key and use it in your putty ssh session
