@@ -1,3 +1,9 @@
+# Class on Sep 04
+   - Will talk about course project (see last four years
+     at fdac18, fdac17, fdac16, fdac)        
+   - [MiniProject1](https://github.com/fdac19/MiniProject1/blob/master/README.md)
+
+
 # Class on Aug 30: Attend only if you need help with Practice0 face to face
    - Attend ony if you need help with Practice0 task. It involves a number of steps, and if you get stuck on any of them please either
        - Open an issue, 
