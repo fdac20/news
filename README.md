@@ -1,7 +1,20 @@
+# Class on Sep 11
+   - Present the selected 10 miniprojects to the class
+   - Start final project pitches
+   
+# Class on Sep 09
+   - Present your miniproject1 in small groups
+
+# Class on Sep 06
+   - Discuss ideas with your assigned peers, work on the miniproject1 
+   
 # Class on Sep 04
-   - Will talk about course project (see last four years
-     at fdac18, fdac17, fdac16, fdac)        
-   - [MiniProject1](https://github.com/fdac19/MiniProject1/blob/master/README.md)
+   - Think about selecting the course project (see course projects for the last four years
+     at fdac18, fdac17, fdac16, fdac for inspiration)
+   - Please submit Practice0 task if you have not done so
+   - See [the simple text analysis of your descriptions](https://github.com/fdac19/students/blob/master/TeamingAnalysis.ipynb)
+   - Introducing the [MiniProject1 process](https://github.com/fdac19/MiniProject1/blob/master/README.md)
+   - and [template](https://github.com/fdac19/Miniproject1/blob/master/MiniProject1.ipynb)
 
 
 # Class on Aug 30: Attend only if you need help with Practice0 face to face
