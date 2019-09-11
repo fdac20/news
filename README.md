@@ -1,6 +1,7 @@
 # Class on Sep 11
    - Present the selected 10 miniprojects to the class
-   - Start final project pitches
+   - Explain pitches for the final project
+   - Introduce Miniproject2 data discovery
    
 # Class on Sep 09
    - Present your miniproject1 in small groups
