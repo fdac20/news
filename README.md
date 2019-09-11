@@ -1,6 +1,6 @@
 # Class on Sep 11
    - Present the selected 10 miniprojects to the class
-   - Explain pitches for the final project
+   - Explain [pitches for the final project](https://github.com/fdac19/news/blob/master/FinalProject.md)
    - Introduce Miniproject2 data discovery
    - How to resolve common problems
        - Symptom: nothing appears in the browser for localhost:8888
