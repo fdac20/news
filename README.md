@@ -2,6 +2,9 @@
    - Present the selected 10 miniprojects to the class
    - Explain pitches for the final project
    - Introduce Miniproject2 data discovery
+   - How to resolve common problems
+       - Symptom: nothing appears in the browser for localhost:8888
+       - Solution: run /bin/notebook.sh in the docker container
    
 # Class on Sep 09
    - Present your miniproject1 in small groups
