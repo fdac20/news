@@ -1,12 +1,11 @@
 # Class on Sep 13
    - Present the remaining of the selected 10 miniproject1's to the class
    - Pitches for the final project
-   - Introducing Data Discovery - Miniproject2 
+   - Introducing [Data Discovery](https://github.com/fdac19/lectures/blob/master/dd.pdf) - [Miniproject2](https://github.com/fdac19/Miniproject2)
    
 # Class on Sep 11
    - Present the selected 10 miniproject1's to the class
    - Explain [pitches for the final project](https://github.com/fdac19/news/blob/master/FinalProject.md)
-   - Introduce Miniproject2 data discovery
    - How to resolve common problems
        - Symptom: nothing appears in the browser for localhost:8888
        - Solution: run /bin/notebook.sh in the docker container
