@@ -18,7 +18,7 @@
    * responsibilities of each member, along with
    * a time-line of milestones, and
    * the expected outcome
-- The proposal pdf will be comited to fdac19/ProjectName/proposal.pdf
+- The proposal pdf will be committed to fdac19/ProjectName/proposal.pdf
 
 
 

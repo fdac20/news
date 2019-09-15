@@ -9,7 +9,7 @@
    * responsibilities of each member, along with
    * a time-line of milestones, and
    * the expected outcome
-- The proposal pdf will be comited to fdac19/ProjectName/proposal.pdf
+- The proposal pdf will be committed to fdac19/ProjectName/proposal.pdf
 
 # Class on Sep 23 (complete Miniproject2)
   - Miniproject2 is due at the end of the class 
