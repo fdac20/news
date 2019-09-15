@@ -1,3 +1,29 @@
+# Class on Sept 25 (complete project proposals)
+- Final project proposals are due at the end of the class
+- The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk).
+- The proposal should provide
+   * a brief motivation for the project, detailed
+   * discussion of the data that will be obtained or used in the project,
+   * responsibilities of each member, along with
+   * a time-line of milestones, and
+   * the expected outcome
+- The proposal pdf will be comited to fdac19/ProjectName/proposal.pdf
+
+# Class on Sep 23 (complete Miniproject2)
+  - Miniproject2 is due at the end of the class 
+   
+# Class on Sep 20
+  - Lecture on databases
+  - Introducing GCP (Miniproject3)
+  
+# Class on Sep 18
+  - The remaining teams are formed: **Everyone** has a final project at the end of the class
+  - Start brainstorming/writing final project proposal (see 
+  
+# Class on Sep 16
+   - Remaining final project pitches are due
+   - Most teams formed (create fdac19/ProjectName repo and a team of the same name; invite members of the team)
+
 # Class on Sep 13
    - Present the remaining of the selected 10 miniproject1's to the class
    - Pitches for the final project
