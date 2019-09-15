@@ -1,22 +1,26 @@
 # FinalProject
 
-## Sales Pitch by the end of Sep 13
+## Sales Pitch by the end of Sep 16
 
 * The purpose is to recruit a team for the final project
 * *Not everyone* is expected to produce the pitch
 * Prepare a sales pitch (on your own or in a group) if you really feel strong about the topic
 
-## Groups selected by Sep 16
+## Groups selected by Sep 18
 
-## Work plan to be prepared by Sep 20
+## Proposal is to be prepared by Sep 25 EOC (End of Class)
 
-* Objective (research question)
-* Motivation
-* What will be done with rough timeline and responsibilities
-  1. Data to be collected
-  1. Measures constructed
-  1. Models/Analysis
-  1. Validation
+- The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk).
+- The proposal should provide
+   * an objective
+   * a brief motivation 
+   * detailed discussion of the data that will be obtained or used in the project,
+   * responsibilities of each member, along with
+   * a time-line of milestones, and
+   * the expected outcome
+- The proposal pdf will be comited to fdac19/ProjectName/proposal.pdf
+
+
 
 ## Notes 
 

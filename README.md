@@ -1,9 +1,11 @@
 # Class on Sept 25 (complete project proposals)
-- Final project proposals are due at the end of the class
+- [Final project proposals](https://github.com/fdac19/news/blob/master/FinalProject.md) are due at the end of the class
 - The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk).
 - The proposal should provide
-   * a brief motivation for the project, detailed
-   * discussion of the data that will be obtained or used in the project,
+   * an objective
+   * a brief motivation for the project,
+   * detailed discussion of the data that will be obtained or used
+     in the project,
    * responsibilities of each member, along with
    * a time-line of milestones, and
    * the expected outcome
