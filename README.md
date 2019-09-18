@@ -1,4 +1,4 @@
-# Class on Sept 25 (complete project proposals)
+# Class on Sep 25 (complete project proposals)
 - [Final project proposals](https://github.com/fdac19/news/blob/master/FinalProject.md) are due at the end of the class
 - The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk).
 - The proposal should provide
@@ -20,7 +20,7 @@
   
 # Class on Sep 18
   - The remaining teams are formed: **Everyone** has a final project at the end of the class
-  - Start brainstorming/writing final project proposal (see 
+  - Start brainstorming/writing final project proposal (see Sep 25)
   
 # Class on Sep 16
    - Remaining final project pitches are due
