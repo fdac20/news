@@ -16,7 +16,7 @@
    
 # Class on Sep 20
   - Lecture on [databases](https://github.com/fdac19/lectures/blob/master/db.pdf)
-  - Introducing GCP to prepare for Miniproject3
+  - Introducing [GCP to prepare](https://github.com/fdac19/gcp/blob/master/README.md) for Miniproject3
   
 # Class on Sep 18
   - The remaining teams are formed: **Everyone** has a final project at the end of the class
