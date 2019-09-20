@@ -15,8 +15,8 @@
   - Miniproject2 is due at the end of the class 
    
 # Class on Sep 20
-  - Lecture on databases
-  - Introducing GCP (Miniproject3)
+  - Lecture on [databases](https://github.com/fdac19/lectures/blob/master/db.pdf)
+  - Introducing GCP to prepare for Miniproject3
   
 # Class on Sep 18
   - The remaining teams are formed: **Everyone** has a final project at the end of the class
