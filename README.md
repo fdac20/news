@@ -1,3 +1,6 @@
+# Class on Sep 27
+  - Will go over Miniproject3
+
 # Class on Sep 25 (complete project proposals)
 - [Final project proposals](https://github.com/fdac19/news/blob/master/FinalProject.md) are due at the end of the class
 - The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk).
