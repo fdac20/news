@@ -1,5 +1,8 @@
+# Class on Sep 29
+- [Miniproject3](https://github.com/fdac19/Miniproject3/blob/master/README.md)
+
 # Class on Sep 27
-  - Will go over Miniproject3
+- Repeated GCP setup
 
 # Class on Sep 25 (complete project proposals)
 - [Final project proposals](https://github.com/fdac19/news/blob/master/FinalProject.md) are due at the end of the class
