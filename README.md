@@ -1,4 +1,5 @@
 # Class on Sep 29
+- [Miniproject2 - missing/incomplete](https://github.com/fdac19/Miniproject2/blob/master/README.md)
 - [Miniproject3](https://github.com/fdac19/Miniproject3/blob/master/README.md)
 
 # Class on Sep 27
