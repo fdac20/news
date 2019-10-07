@@ -1,3 +1,14 @@
+# Class on Sep 9
+   - Miniproject3 Part A due
+   
+# Class on Sep 7
+   - Cliff notes on text analysis
+   - Introduce MP3 part B
+
+# Class on Oct 2-4
+  - Work on final projects
+  - Ensure GCP works
+  
 # Class on Sep 29
 - [Miniproject2 - missing/incomplete](https://github.com/fdac19/Miniproject2/blob/master/README.md)
 - [Miniproject3](https://github.com/fdac19/Miniproject3/blob/master/README.md)
