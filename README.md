@@ -1,7 +1,7 @@
-# Class on Sep 9
+# Class on Oct 9
    - Miniproject3 Part A due
    
-# Class on Sep 7
+# Class on Oct 7
    - Cliff notes on text analysis
    - Introduce MP3 part B
 
