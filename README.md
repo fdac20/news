@@ -1,5 +1,9 @@
+# Class on Oct 11
+   - Work on Final Project/Miniproject3 part B
+
 # Class on Oct 9
-   - Miniproject3 Part A due
+   - Discuss Miniproject Part B
+   - Miniproject3 Part A due (help finalize it)
    
 # Class on Oct 7
    - Cliff notes on text analysis
