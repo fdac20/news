@@ -1,5 +1,19 @@
+# Class on Oct 21, 23, 25
+  - Will meet with teams to hear progress report: a report similar to the proposal, but indicating if anything changed
+    - Objective (research question)
+    - Data to be used: how obtained, how processed, integrated, and validated
+    - What models or algorithms will be used
+    - What will be done with rough timeline and responsibilities for each member 
+    - A description of the partial results
+    - Problems encountered so far
+    
+# Class on Oct 16
+  - Will help with Miniproject3 part B 
+
+# Class on Oct 14
+  - Miniproject3 Part A due (this time really)
+
 # Class on Oct 11
-   - Miniproject3 Part A due (will help finalize it)
    - Work on Final Project/Miniproject3 part B
   
 # Class on Oct 9
