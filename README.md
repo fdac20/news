@@ -13,6 +13,7 @@
 # Class on Oct 14
   - Miniproject3 Part A due (this time really)
   - **Please note changes to MP3 Part B: [the laptop should forward from port 3000!](https://github.com/fdac19/Miniproject3/blob/master/README.md)**
+  - ** Chrome seems to work, but Safari and, possibly Firefox may not work **
 
 # Class on Oct 11
    - Work on Final Project/Miniproject3 part B
