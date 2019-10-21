@@ -1,4 +1,5 @@
 # Class on Oct 21, 23, 25
+  - Oct 23: Miniproject3 Part B due
   - Will meet with teams to hear progress report: a report similar to the proposal, but indicating if anything changed
     - Objective (research question)
     - Data to be used: how obtained, how processed, integrated, and validated
