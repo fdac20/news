@@ -1,4 +1,10 @@
-# Class on Nov 1, 
+# Class on Nov 6
+   - Work on Final projects
+
+# Class on Nov 4
+   - Introducing MP3 part 4 (final data analysis) 
+  
+# Class on Nov 1
    - Work on Final projects
    - Finish MP3 part C 
   
