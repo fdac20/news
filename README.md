@@ -1,5 +1,5 @@
 # Class on Nov 22, 25, Dec 2
-   - Final Project Presentations, please sign up commenting on issue presentations (include team name and dates that would work for your team)
+   - Final Project Presentations, please sign up commenting on [issue presentations](https://github.com/fdac19/news/issues/1) (include team name and dates that would work for your team)
    
 # Class on Nov 13
    - Data Sharing (constructing shared date produced in this class)
