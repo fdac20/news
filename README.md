@@ -1,5 +1,14 @@
-# Class on Nov 6
+# Class on Nov 22, 25, Dec 2
+   - Final Project Presentations, please sign up commenting on issue presentations (include team name and dates that would work for your team)
+   
+# Class on Nov 13
+   - Data Sharing (constructing shared date produced in this class)
+
+# Class on Nov 6, 11
    - Work on Final projects
+
+# Class on Nov 8 
+   - Data Analysis
 
 # Class on Nov 4
    - Introducing MP3 part 4 (final data analysis) 
