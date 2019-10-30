@@ -1,7 +1,9 @@
-# Class on Nov 1, 4, 6
+# Class on Nov 1, 
    - Work on Final projects
+   - Finish MP3 part C 
   
 # Class on Oct 30
+  - Schedule presentation for the course project
   - Progress reports
   - Script for MP3 Part C complete
   
