@@ -1,8 +1,8 @@
 # Class on Nov 22, 25, Dec 2
-   - Final Project Presentations, please sign up commenting on [issue presentations](https://github.com/fdac19/news/issues/1) (include team name and dates that would work for your team)
+   - Final Project Presentations
    
 # Class on Nov 13
-   - Data Sharing (constructing shared date produced in this class)
+   - Data Sharing (constructing shared data set produced in this class)
 
 # Class on Nov 6, 11
    - Work on Final projects
@@ -18,7 +18,7 @@
    - Finish MP3 part C 
   
 # Class on Oct 30
-  - Schedule presentation for the course project
+  - Schedule presentation for the course project, please sign up by adding a comment on [this issue](https://github.com/fdac19/news/issues/1) (include team name and dates that would work for your team)
   - Progress reports
   - Script for MP3 Part C complete
   
