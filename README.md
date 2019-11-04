@@ -4,15 +4,18 @@
 # Class on Nov 13
    - Data Sharing (constructing shared data set produced in this class)
 
-# Class on Nov 6, 11
+# Class on Nov 11
    - Work on Final projects
 
 # Class on Nov 8 
-   - Data Analysis
+   - Introducing MP3 part 4 (final data analysis) 
+
+# Class on Nov 6
+   - Work on Final projects
 
 # Class on Nov 4
-   - Introducing MP3 part 4 (final data analysis) 
-  
+   - [Data Analysis Lecture](https://github.com/fdac19/lectures/blob/master/fdacStats.pdf)
+   
 # Class on Nov 1
    - Work on Final projects
    - Finish MP3 part C 
