@@ -8,8 +8,12 @@
    - Work on Final projects
 
 # Class on Nov 8 
-   - Introducing MP3 part 4 (final data analysis) 
-
+   - Introducing MP3 part 4 (final data analysis)
+   - Google's Cloud Hero is coming to UT Knoxville! During this 3-hour session, you’ll hear briefly from the Google Cloud team as to why cloud solutions are integral to your career, get access to further learning and career opportunities for a cloud-first world, and play a Infrastructure & Data game to be Cloud Hero UT Knoxville! There will be a competition with Google swag prizes and you will be given codes for free content on Coursera so you can continue your training for Google Cloud and make progress toward the highly marketable Google Cloud certification.  
+   - When: Friday, November 8, 2019 from 1:00 p.m. - 4:00 p.m.
+   - Where: Haslam College of Business, Room 501
+   - Register: https://events.withgoogle.com/cloud-hero-utk/
+   
 # Class on Nov 6
    - Work on Final projects
 
