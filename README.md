@@ -15,6 +15,7 @@
 
 # Class on Nov 4
    - [Data Analysis Lecture](https://github.com/fdac19/lectures/blob/master/fdacStats.pdf)
+   - Please finish MP3 Part C
    
 # Class on Nov 1
    - Work on Final projects
