@@ -16,7 +16,7 @@
    
 # Class on Nov 6
    - Work on Final projects
-   - 24 still incomplete/missing for MP3 part C
+   - 21 still incomplete/missing for MP3 part C
 
 # Class on Nov 4
    - [Data Analysis Lecture](https://github.com/fdac19/lectures/blob/master/fdacStats.pdf)
