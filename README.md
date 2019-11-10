@@ -6,6 +6,8 @@
 
 # Class on Nov 11
    - Work on Final projects
+   - Instructions for Part D posted on MP3 page, video of class on
+     [Nov 8](https://drive.google.com/file/d/1p9BsMc98GOSdTL8vdvXJK6FZs6CzxtS9/view?usp=sharing)
 
 # Class on Nov 8 
    - Introducing MP3 part 4 (final data analysis)
