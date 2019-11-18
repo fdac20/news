@@ -1,5 +1,5 @@
 # Class on Nov  Dec 2
-  - Final Project Presentations
+  - Final Project Presentations (MP3 Part D due)
   - Comic Scraper
   - DiscordTextAnalyzer Second Choice
   - CinemaScores
@@ -18,8 +18,22 @@
    - MacroManage
    - CSM
 
-# Class on Nov 13
+# Class on Nov 20
    - Data Sharing (constructing shared data set produced in this class)
+   - Work on Final projects
+   - Help with MP3
+
+# Class on Nov 18
+   - Work on Final projects
+   - Help with MP3
+
+# Class on Nov 15
+   - Work on Final projects
+   - MP3 Part D discussion
+
+# Class on Nov 13
+   - Work on Final projects
+   - MP3 Part D discussion
 
 # Class on Nov 11
    - Work on Final projects
