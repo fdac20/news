@@ -1,6 +1,23 @@
-# Class on Nov 22, 25, Dec 2
+# Class on Nov  Dec 2
+  - Final Project Presentations
+  - Comic Scraper
+  - DiscordTextAnalyzer Second Choice
+  - CinemaScores
+  - Generational Debt
+  
+# Class on Nov  25
+  - Final Project Presentations
+  - InterPlanetarySpider
+  - SteamSuggestion
+  - Library of Babel
+  - FantasyFootball Analysis
+  
+# Class on Nov 22, 
    - Final Project Presentations
-   
+   - ImageClustering
+   - MacroManage
+   - CSM
+
 # Class on Nov 13
    - Data Sharing (constructing shared data set produced in this class)
 
