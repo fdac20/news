@@ -9,6 +9,7 @@
   - DiscordTextAnalyzer Second Choice
   - CinemaScores
   - Generational Debt
+  - OSTI-Publication-Analysis
   
 # Class on Nov  25
   - Final Project Presentations
