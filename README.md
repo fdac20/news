@@ -16,6 +16,7 @@
   - SteamSuggestion
   - Library of Babel
   - FantasyFootball Analysis
+  - TwitterGang 
   
 # Class on Nov 22, 
    - Final Project Presentations
