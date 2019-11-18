@@ -1,3 +1,8 @@
+
+# Course Evaluation
+  - https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Thursday, December 5.
+
+
 # Class on Nov  Dec 2
   - Final Project Presentations (MP3 Part D due)
   - Comic Scraper
