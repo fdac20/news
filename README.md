@@ -10,6 +10,7 @@
   - CinemaScores
   - Generational Debt
   - OSTI-Publication-Analysis
+  - StackBot
   
 # Class on Nov  25
   - Final Project Presentations
@@ -18,13 +19,13 @@
   - Library of Babel
   - FantasyFootball Analysis
   - TwitterGang 
+  - MacroManage
   
 # Class on Nov 22
    - Final Project Presentations
    - ImageClustering
-   - MacroManage
    - CSM
-   - StackBot (or later)
+   
 
 # Class on Nov 20
    - Data Sharing (constructing shared data set produced in this class)
