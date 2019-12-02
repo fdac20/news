@@ -2,6 +2,16 @@
 # Course Evaluation
   - https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Thursday, December 5.
 
+# Final Project Reports (Due Dec 9)
+  Similar to progress reports with additional sections:
+  - Objective (research question)
+  - Data that was used: how obtained, how processed, integrated, and validated
+  - What models or algorithms were used
+  - Results: A description of the results
+  - Primary issues encountered during the project
+  - Future work: ideas generated, improvements that would make sense, etc
+  - Org chart: rough timeline and responsibilities for each member 
+
 
 # Class on Nov  Dec 2
   - Final Project Presentations (MP3 Part D due)
