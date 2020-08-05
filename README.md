@@ -1,8 +1,5 @@
 
-# Course Evaluation
-  - https://utk.campuslabs.com/courseeval/  The site will be available until midnight on Thursday, December 5.
-
-# Final Project Reports (Due Dec 9)
+# Final Project Reports (Due Dec TBD)
   Similar to progress reports with additional sections:
   - Objective (research question)
   - Data that was used: how obtained, how processed, integrated, and validated
@@ -13,205 +10,29 @@
   - Org chart: rough timeline and responsibilities for each member 
 
 
-# Class on Nov  Dec 2
-  - Final Project Presentations (MP3 Part D due)
-  - Comic Scraper
-  - DiscordTextAnalyzer Second Choice
-  - CinemaScores
-  - Generational Debt
-  - OSTI-Publication-Analysis
-  - StackBot
-  
-# Class on Nov  25
-  - Final Project Presentations
-  - InterPlanetarySpider
-  - SteamSuggestion
-  - Library of Babel
-  - FantasyFootball Analysis
-  - TwitterGang 
-  - MacroManage
-  
-# Class on Nov 22
-   - Final Project Presentations
-   - ImageClustering
-   - CSM
-   
-
-# Class on Nov 20
-   - Data Sharing (constructing shared data set produced in this class)
-   - Work on Final projects
-   - Help with MP3
-
-# Class on Nov 18
-   - Work on Final projects
-   - Help with MP3
-
-# Class on Nov 15
-   - Work on Final projects
-   - MP3 Part D discussion
-
-# Class on Nov 13
-   - Work on Final projects
-   - MP3 Part D discussion
-
-# Class on Nov 11
-   - Work on Final projects
-   - Instructions for Part D posted on MP3 page, video of class on
-     [Nov 8](https://drive.google.com/file/d/1p9BsMc98GOSdTL8vdvXJK6FZs6CzxtS9/view?usp=sharing)
-
-# Class on Nov 8 
-   - Introducing MP3 part 4 (final data analysis)
-   - Google's Cloud Hero is coming to UT Knoxville! During this 3-hour session, you’ll hear briefly from the Google Cloud team as to why cloud solutions are integral to your career, get access to further learning and career opportunities for a cloud-first world, and play a Infrastructure & Data game to be Cloud Hero UT Knoxville! There will be a competition with Google swag prizes and you will be given codes for free content on Coursera so you can continue your training for Google Cloud and make progress toward the highly marketable Google Cloud certification.  
-   - When: Friday, November 8, 2019 from 1:00 p.m. - 4:00 p.m.
-   - Where: Haslam College of Business, Room 501
-   - Register: https://events.withgoogle.com/cloud-hero-utk/
-   
-# Class on Nov 6
-   - Work on Final projects
-   - 21 still incomplete/missing for MP3 part C
-
-# Class on Nov 4
-   - [Data Analysis Lecture](https://github.com/fdac19/lectures/blob/master/fdacStats.pdf)
-   - Please finish MP3 Part C: only 14 are done as of this morning. Please note that connectB.sh had typos, so use the latest one
-   
-# Class on Nov 1
-   - Work on Final projects
-   - Finish MP3 part C 
-  
-# Class on Oct 30
-  - Schedule presentation for the course project, please sign up by adding a comment on [this issue](https://github.com/fdac19/news/issues/1) (include team name and dates that would work for your team)
-  - Progress reports
-  - Script for MP3 Part C complete
-  
-# Class on Oct 21, 23, 25
-  - Oct 23: Miniproject3 Part B due
-  - Will meet with teams to hear progress report: a report similar to the proposal, but indicating if anything changed
-    - Objective (research question)
-    - Data to be used: how obtained, how processed, integrated, and validated
-    - What models or algorithms will be used
-    - What will be done with rough timeline and responsibilities for each member 
-    - A description of the partial results
-    - Problems encountered so far
-    
-# Class on Oct 16
-  - Will help with Miniproject3 part B 
-
-# Class on Oct 14
-  - Miniproject3 Part A due (this time really)
-  - **Please note changes to MP3 Part B: [the laptop should forward from port 3000!](https://github.com/fdac19/Miniproject3/blob/master/README.md)**
-  - **Chrome seems to work for Part B, but Safari and, possibly Firefox may not work (you have to be able to see the annotation once you save it)**
-
-# Class on Oct 11
-   - Work on Final Project/Miniproject3 part B
-  
-# Class on Oct 9
-   - Discuss Miniproject Part B
-   
-   
-# Class on Oct 7
-   - Cliff notes on text analysis
-   - Introduce MP3 part B
-
-# Class on Oct 2-4
-  - Work on final projects
-  - Ensure GCP works
-  
-# Class on Sep 29
-- [Miniproject2 - missing/incomplete](https://github.com/fdac19/Miniproject2/blob/master/README.md)
-- [Miniproject3](https://github.com/fdac19/Miniproject3/blob/master/README.md)
-
-# Class on Sep 27
-- Repeated GCP setup
-
-# Class on Sep 25 (complete project proposals)
-- [Final project proposals](https://github.com/fdac19/news/blob/master/FinalProject.md) are due at the end of the class
-- The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk).
-- The proposal should provide
-   * an objective
-   * a brief motivation for the project,
-   * detailed discussion of the data that will be obtained or used
-     in the project,
-   * responsibilities of each member, along with
-   * a time-line of milestones, and
-   * the expected outcome
-- The proposal pdf will be committed to fdac19/ProjectName/proposal.pdf
-
-# Class on Sep 23 (complete Miniproject2)
-  - Miniproject2 is due at the end of the class 
-   
-# Class on Sep 20
-  - Lecture on [databases](https://github.com/fdac19/lectures/blob/master/db.pdf)
-  - Introducing [GCP to prepare](https://github.com/fdac19/gcp/blob/master/README.md) for Miniproject3
-  - [video recording: see 2019-09-20](https://drive.google.com/open?id=1o-se-OxN1f1llAX35mzzR00q2261JfGp)
-  
-# Class on Sep 18
-  - The remaining teams are formed: **Everyone** has a final project at the end of the class
-  - Start brainstorming/writing final project proposal (see Sep 25)
-  
-# Class on Sep 16
-   - Remaining final project pitches are due
-   - Most teams formed (create fdac19/ProjectName repo and a team of the same name; invite members of the team)
-
-# Class on Sep 13
-   - Present the remaining of the selected 10 miniproject1's to the class
-   - Pitches for the final project
-   - Introducing [Data Discovery](https://github.com/fdac19/lectures/blob/master/dd.pdf) - [Miniproject2](https://github.com/fdac19/Miniproject2)
-   
-# Class on Sep 11
-   - Present the selected 10 miniproject1's to the class
-   - Explain [pitches for the final project](https://github.com/fdac19/news/blob/master/FinalProject.md)
-   - How to resolve common problems
-       - Symptom: nothing appears in the browser for localhost:8888
-       - Solution: run /bin/notebook.sh in the docker container
-   
-# Class on Sep 09
-   - Present your miniproject1 in small groups
-
-# Class on Sep 06
-   - Discuss ideas with your assigned peers, work on the miniproject1 
-   
-# Class on Sep 04
-   - Think about selecting the course project (see course projects for the last four years
-     at fdac18, fdac17, fdac16, fdac for inspiration)
-   - Please submit Practice0 task if you have not done so
-   - See [the simple text analysis of your descriptions](https://github.com/fdac19/students/blob/master/TeamingAnalysis.ipynb)
-   - Introducing the [MiniProject1 process](https://github.com/fdac19/MiniProject1/blob/master/README.md)
-   - and [template](https://github.com/fdac19/Miniproject1/blob/master/MiniProject1.ipynb)
-
-
-# Class on Aug 30: Attend only if you need help with Practice0 face to face
-   - Attend ony if you need help with Practice0 task. It involves a number of steps, and if you get stuck on any of them please either
-       - Open an issue, 
-       - Ask TAs to help before the class, 
-       - Come to class and TA will be there to help, or participate virtually by
-       - Joining a zoom session (connection on the news page) I'll be there to answer your questions    
-
-# Class on Aug 28
-   - Lecture explaining key technologies used in the class
-
-# Class on Aug 26
-   - Please submit the pull request (TAs will be in the class to help)
+# Class on Aug 27
+   - Please submit the pull request (TAs will be online to help)
    - TAs will help you set up ssh/putty so that you can access
      jupyter notebooks
    - Make sure ssh/putty setup works
-   - [Full details](https://github.com/fdac19/news/blob/master/Preliminary.md)
+   - [Full details](https://github.com/fdac20/news/blob/master/Preliminary.md)
 
-# Class on Aug 23
+# Class on Aug 25
    - Make sure you accept your github invitations
    - Follow through ssh/putty setup
-	- [Full details](https://github.com/fdac19/news/blob/master/Preliminary.md)
+	- [Full details](https://github.com/fdac20/news/blob/master/Preliminary.md)
 
 
-# Class on Aug 21
+# Class on Aug 20
    - Create your github account 
       - fork repo students 
       - create your utid.md file providing your name and interests:
         see Audris.md for inspiration, and also provide your
         utid.key with your public ssh key.
 	  - submit a pull request to fdac19/students
-   - Make sure you do it during the class so we can start ready Aug 23
+   - Make sure you do it during the class so we can start ready on Aug 25
 
-# Class [video recordings](https://drive.google.com/open?id=1o-se-OxN1f1llAX35mzzR00q2261JfGp)
+# Class [video recordings](TBD)
 
 # Information for remote participation via Zoom
    - Join from a PC, Mac, iPad, iPhone or Android device:
@@ -227,12 +48,10 @@
 
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545]
-* ** MK-524   10:10-11:00 MWF**
+* **  Zoom link above  04:30PM-5:45PM TTh**
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
-* **TA:** Preston Provins [pprovins@vols.utk.edu](mailto:pprovins@vols.utk.edu) office hours available upon request
-* **TA:** David Kennard [dkennard@vols.utk.edu](mailto:dkennard@vols.utk.edu) 
-	* office hours MinKao 217, Wednesday: 2:30PM - 4:30PM, Thursday: 1:00PM - 3:00PM, Friday: 2:30PM - 4:30PM 
-* [** Syllabus **](https://github.com/fdac19/news/blob/master/course.pdf)
+* **TA:** David Reid [dreid6@tennessee.edu](mailto:dreid6@tennessee.edu) office hours available upon request
+* [** Syllabus **](https://github.com/fdac20/news/blob/master/course.pdf)
 * **Need help?**
 
 Simple rules: 
