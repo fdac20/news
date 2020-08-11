@@ -48,7 +48,7 @@
 
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545]
-* **  Zoom link above  04:30PM-5:45PM TTh**
+* **Zoom link above  04:30PM-5:45PM TTh, the class is taught fully online, all lecturese will be recorded**
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
 * **TA:** David Reid [dreid6@tennessee.edu](mailto:dreid6@tennessee.edu) office hours available upon request
 * [** Syllabus **](https://github.com/fdac20/news/blob/master/course.pdf)
