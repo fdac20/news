@@ -68,9 +68,8 @@ https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_o
 
   * Putty is an ssh client for earlier versions of windows, please avoid if you have Win10 or later
   * [Instructions on how to generate ssh key running windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows) 
-       1. How to generate key via putty ![generate the key puttygen](https://github.com/fdac20/news/blob/master(PuttGen.PNG)
-	   1. Copy the key ![public ssh key from puttygen](https://github.com/fdac20/news/blob/master/puttykey.png
-          "public ssh key from puttygen")		  
+       1. How to generate key via putty ![generate the key puttygen](https://github.com/fdac20/news/blob/master/PuttGen.PNG)
+	   1. Copy the key ![public ssh key from puttygen](https://github.com/fdac20/news/blob/master/puttykey.png "public ssh key from puttygen")		  
        1. Save the private key and use it in your putty ssh session
        1. Copy the public key (highlited in the image) to add to the yournetid.key 
        1. Now work on creating and saving session: start putty and go to connection/ssh/tunnels, enter source and destination and click *add*
