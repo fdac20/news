@@ -7,10 +7,10 @@
    
             - Do steps 1, 2, 4, and 5
             - Do Not Share Your Private Key in id_rsa
-   * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/fdac19/students) so I
+   * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/fdac20/students) so I
       can add you to the to the GitHub group for the course.
       
-            - Start by [**forking** the students repository](https://github.com/fdac19/students)
+            - Start by [**forking** the students repository](https://github.com/fdac20/students)
             - Add your utk net id as NETID.md (click on '+' - add 
                new file next to the https//github.com/fdac19/students/+ link)
             - Add your UTK netid and publickey key (in id_rsa.pub) to
@@ -20,7 +20,7 @@
    * Walk through [workflow](#workflow) 
     
 ## Typical workflow
-1. To start, [**fork** the repository][forking] for the test project (found under [github.com/fdac19](https://github.com/fdac19))
+1. To start, [**fork** the repository][forking] for the test project (found under [github.com/fdac20](https://github.com/fdac20))
 1. [**Clone**][ref-clone] the repository to your computer.
 1. View, create, and edit your files
 1. [**commit**][ref-commit] changes to complete your solution.
@@ -42,8 +42,8 @@ sure I know to look at it sooner.
      * create .ssh/config
     	1. create ~/.ssh/config
         ```
-         host da0
-            hostname da0.eecs.utk.edu
+         host da2
+            hostname da2.eecs.utk.edu
             port YOURPORT #from students/ports.md
             user YOURNETID
             LocalForward 8888 127.0.0.1:8888
@@ -57,10 +57,10 @@ sure I know to look at it sooner.
          ```
           chmod -R og-rwx ~/.ssh
          ```
-        1. ssh da0
+        1. ssh da2
     * Or ssh directly 
       ```
-       ssh -pYOURPORT -L8888:localhost:8888 -i ~/.ssh/id_rsa yournetid@da0.eecs.utk.edu
+       ssh -pYOURPORT -L8888:localhost:8888 -i ~/.ssh/id_rsa yournetid@da2.eecs.utk.edu
       ```
   * Windows 10 has ubuntu subsystem: use that please
 https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_overview
@@ -68,16 +68,16 @@ https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_o
 
   * Putty is an ssh client for earlier versions of windows, please avoid if you have Win10 or later
   * [Instructions on how to generate ssh key running windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows) 
-       1. Also see [this issue](https://github.com/fdac19/news/issues/1) (thanks @mkramer6) ![public ssh key from puttygen](https://github.com/fdac19/news/blob/master/puttykey.png "public ssh key from puttygen") 
+       1. How to generate key via putty![public ssh key from puttygen](https://github.com/fdac20/news/blob/master/puttykey.png "public ssh key from puttygen") 
        1. Save the private key and use it in your putty ssh session
        1. Copy the public key (highlited in the image) to add to the yournetid.key 
        1. Now work on creating and saving session: start putty and go to connection/ssh/tunnels, enter source and destination and click *add*
-       1. ![port forwarding](https://github.com/fdac19/news/blob/master/puttyport.png "select port forwarding")
+       1. ![port forwarding](https://github.com/fdac20/news/blob/master/puttyport.png "select port forwarding")
 
        1. Go to  go to connection/ssh/Auth and browse for your private key
-       1. ![authentication](https://github.com/fdac19/news/blob/master/puttyauth.png "select secret key that was saved above")
+       1. ![authentication](https://github.com/fdac20/news/blob/master/puttyauth.png "select secret key that was saved above")
        1. Go to  go to session enter hostname and *YOUR PORT* from ports.md in fdac/students
-       1. ![session](https://github.com/fdac19/news/blob/master/puttysession.png "start putty session")
+       1. ![session](https://github.com/fdac20/news/blob/master/puttysession.png "start putty session")
        1. Don't forget to _save_ the session before clicking open  
 
 

@@ -29,7 +29,7 @@
       - create your utid.md file providing your name and interests:
         see Audris.md for inspiration, and also provide your
         utid.key with your public ssh key.
-	  - submit a pull request to fdac19/students
+	  - submit a pull request to fdac20/students
    - Make sure you do it during the class so we can start ready on Aug 25
 
 # Class [video recordings](TBD)
@@ -48,9 +48,10 @@
 
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545]
-* **Zoom link above  04:30PM-5:45PM TTh, the class is taught fully online, all lecturese will be recorded**
-* **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
-* **TA:** David Reid [dreid6@tennessee.edu](mailto:dreid6@tennessee.edu) office hours available upon request
+* **  Zoom link above  04:30PM-5:45PM TTh**
+* **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours - upon request
+* **TA:** David Reid [dreid6@tennessee.edu](mailto:dreid6@tennessee.edu) office hours - upon request
+* **TA:** James Hammer [jhammer3@vols.utk.edu](mailto:jhammer3@vols.utk.edu) office hours - upon request
 * [** Syllabus **](https://github.com/fdac20/news/blob/master/course.pdf)
 * **Need help?**
 
@@ -59,9 +60,9 @@ Simple rules:
 1. There are no stupid questions. However, it may be worth going over the following steps:
 1. Think of what the right answer may be.
 1. Search online: stack overflow, etc.
-     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/fdac19/)
+     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/fdac20/)
      - answers to questions: [Stack Overflow](http://stackoverflow.com/)
-1. Look through [issues](https://github.com/fdac19/news/issues)
+1. Look through [issues](https://github.com/fdac20/news/issues)
 1. Post the question as an issue.
 1. Ask instructor: [email](mailto:audris@utk.edu) for 1-on-1 help, or
    to set up a time to meet 
