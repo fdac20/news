@@ -70,7 +70,7 @@ https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_o
   * [Instructions on how to generate ssh key running windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows) 
 
        1. How to generate key via putty
-       1.![generate the key via puttygen](https://github.com/fdac20/news/blob/master/PuttyGen.png "generate new key puttygen")
+       1. ![generate the key via puttygen](https://github.com/fdac20/news/blob/master/PuttyGen.png "generate new key puttygen")
 
        1. Copy the key
        1. ![public ssh key from puttygen](https://github.com/fdac20/news/blob/master/puttykey.png "public ssh key from puttygen")
