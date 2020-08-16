@@ -196,8 +196,10 @@ These apply to real life, as well.
 
 * Class Participation – 15%: students are expected to read all
    material covered in a week and come to class prepared to take
-   part in the classroom discussions. Responding to other student
-   questions (issues) counts as classroom participation.
+   part in the classroom discussions (online). Asking and responding to other student
+   questions (issues) counts as a key factor for classroom participation. With online
+   format and collaborative nature of the projects, this should not
+   be hard to accomplish. 
 
 * Assignments - 40%: Each assignment will involve writing (or modifying a template of)
    a small Python program.
