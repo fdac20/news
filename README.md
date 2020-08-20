@@ -32,7 +32,7 @@
 	  - submit a pull request to fdac20/students
    - Make sure you do it during the class so we can start ready on Aug 25
 
-# Class [video recordings](TBD)
+# Class [video recordings](https://drive.google.com/drive/folders/11_-x1QGe07HANvw3VVbcqnXepckFEmCU?usp=sharing)
 
 # Information for remote participation via Zoom
    - Join from a PC, Mac, iPad, iPhone or Android device:
