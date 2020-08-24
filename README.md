@@ -18,8 +18,15 @@
    - [Full details](https://github.com/fdac20/news/blob/master/Preliminary.md)
 
 # Class on Aug 25
-   - Make sure you accept your github invitations
-   - Follow through ssh/putty setup
+   - Previous lecture has been recorded (please see the link below)
+   - We will go over the second lectture on tools needed for the class and on version control practices
+   - If you have not submitted the PR before class please:
+       - go to https://github.com/fdac20/students and click the fork button on the top right side of the screen. 
+       - Next, add your netid.md and netid.key files (replace 'netid' by your own netid). 
+       - Then, click on create pull request. 
+       - Complete instructions are at https://github.com/fdac20/news/blob/master/Preliminary.md.
+   - Make sure you have accepted your github invitations at https://github.com/fdac20
+   - Please follow through ssh/putty setup
 	- [Full details](https://github.com/fdac20/news/blob/master/Preliminary.md)
 
 
