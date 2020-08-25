@@ -19,7 +19,7 @@
 
 # Class on Aug 25
    - Previous lecture has been recorded (please see the link below)
-   - We will go over the second lectture on tools needed for the class and on version control practices
+   - We will go over the lecture on key tools used for the class and on version control practices
    - If you have not submitted the PR before class please:
        - go to https://github.com/fdac20/students and click the fork button on the top right side of the screen. 
        - Next, add your netid.md and netid.key files (replace 'netid' by your own netid). 
