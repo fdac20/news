@@ -9,14 +9,21 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
+# Class on Sep 1
+   - Think about selecting the course project (see course projects for the last five years
+     at fdac19, fdac18, fdac17, fdac16, fdac for inspiration)
+   - Please submit Practice0 task if you have not done so
+   - See [the simple text analysis of your descriptions](https://github.com/fdac20/students/blob/master/TeamingAnalysis.ipynb)
+   - Introducing the [MiniProject1 process](https://github.com/fdac20/MiniProject1/blob/master/README.md)
+   - and [template](https://github.com/fdac20/Miniproject1/blob/master/MiniProject1.ipynb)
 
 # Class on Aug 27
-   - Please submit the pull request (TAs will be online to help)
-   - TAs will help you set up ssh/putty so that you can access
-     jupyter notebooks
+   - Attend ony if you need help with forking/ssh/Practice0 task.
+   - TAs and I will help you set up ssh/putty so that you can access jupyter notebooks
    - Make sure ssh/putty setup works
    - [Full details](https://github.com/fdac20/news/blob/master/Preliminary.md)
-
+   - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
+   
 # Class on Aug 25
    - Previous lecture has been recorded (please see the link below)
    - We will go over the lecture on key tools used for the class and on version control practices
