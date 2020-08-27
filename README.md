@@ -19,9 +19,13 @@
 
 # Class on Aug 27
    - Attend ony if you need help with forking/ssh/Practice0 task.
-   - TAs and I will help you set up ssh/putty so that you can access jupyter notebooks
-   - Make sure ssh/putty setup works
-   - [Full details](https://github.com/fdac20/news/blob/master/Preliminary.md)
+   - TAs and I will help you set up ssh/putty so that you can access jupyter notebooks, here are two additional zoom conference rooms:
+        https://tennessee.zoom.us/j/94932963014
+	https://tennessee.zoom.us/j/98393877697
+   - Make sure you do not have any issues with the following:
+      - Have you accepted github invite: iqbo, johnpi, bhl19950207, michael-cox
+      - Make sure your ssh/putty setup works:[Full details](https://github.com/fdac20/news/blob/master/Preliminary.md)
+      - Can you complete fdac20/Practice0?
    - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
    
 # Class on Aug 25
