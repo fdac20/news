@@ -9,6 +9,13 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
+# Class on Sep 3
+   - Thank you for submitting project ideas to fdac20/FinalProjectPitches
+   - Please submit ** Practice0 task ** if you have not done so
+   - If you still have any questions regarding MP1, I will try to answer them:
+      - [MiniProject1 process](https://github.com/fdac20/MiniProject1/blob/master/README.md)
+      - [MP1 template](https://github.com/fdac20/Miniproject1/blob/master/MiniProject1.ipynb)
+
 # Class on Sep 1
    - Think about selecting the course project (see course projects for the last five years
      at fdac19, fdac18, fdac17, fdac16, fdac for inspiration)
