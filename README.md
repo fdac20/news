@@ -9,6 +9,15 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
+# Class on Sep 10
+   - First 20 min: Final project pitches 
+   - Small group presentations of Miniproject1
+   - Results of the voting    
+   
+# Class on Sep 08
+   - Please don't forget to enable issues on your fork of Miniproject1 so your peer can raise issues
+   - Discuss ideas with your assigned peers, finish Miniproject1
+
 # Class on Sep 3
    - Thank you for submitting project ideas to fdac20/FinalProjectPitches
    - Please submit ** Practice0 task ** if you have not done so
