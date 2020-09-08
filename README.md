@@ -10,15 +10,18 @@
   - Org chart: rough timeline and responsibilities for each member 
 
 # Class on Sep 10
-   - First 20 min: Final project pitches 
+   - First 20 min: Final project pitches (Regular zoom number)
    - Small group presentations of Miniproject1
+      - We will use a *special Zoom number* with preassigned zoom breakout rooms for each team: 
+         https://tennessee.zoom.us/j/99284951954
    - Results of the voting    
    
 # Class on Sep 08
-   - We will use a *special Zoom number* with preassigned zoom breakout rooms for each team: 
-         https://tennessee.zoom.us/j/99284951954
+   - We will use regular zoom number today: https://tennessee.zoom.us/j/2766448345
    - Please don't forget to enable issues on your fork of Miniproject1 so your peer can raise issues
-   - Discuss ideas with your assigned peers, finish Miniproject1
+   - After all questions are answered we will switch to 
+       https://tennessee.zoom.us/j/99284951954 so that each group is ready for the next class.
+   - Discuss ideas with your assigned peers in the small groups, finish Miniproject1
 
 # Class on Sep 3
    - Thank you for submitting project ideas to fdac20/FinalProjectPitches
