@@ -15,6 +15,8 @@
    - Results of the voting    
    
 # Class on Sep 08
+   - We will use a *special Zoom number* with preassigned zoom breakout rooms for each team: 
+         https://tennessee.zoom.us/j/99284951954
    - Please don't forget to enable issues on your fork of Miniproject1 so your peer can raise issues
    - Discuss ideas with your assigned peers, finish Miniproject1
 
