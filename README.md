@@ -14,6 +14,17 @@
    - Small group presentations of Miniproject1
       - We will use a *special Zoom number* with preassigned zoom breakout rooms for each team: 
          https://tennessee.zoom.us/j/99284951954
+
+   - Team 1 https://tennessee.zoom.us/j/95725208783
+   - Team 2 https://tennessee.zoom.us/j/93213528802
+   - Team 3 https://tennessee.zoom.us/j/94956030633
+   - Team 4 https://tennessee.zoom.us/j/91499146968
+   - Team 5 https://tennessee.zoom.us/j/95661325820
+   - Team 6 https://tennessee.zoom.us/j/95829164881
+   - Team 7 https://tennessee.zoom.us/j/98055424312
+   - Team 8 https://tennessee.zoom.us/j/96123759849
+   - Team 9 https://tennessee.zoom.us/j/97793867441
+   - Team 10 https://tennessee.zoom.us/j/92620040619
    - Results of the voting    
    
 # Class on Sep 08
