@@ -9,23 +9,24 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
-# Class on Sep 10
-   - First 20 min: Final project pitches (Regular zoom number)
-   - Small group presentations of Miniproject1
-      - We will use a *special Zoom number* with preassigned zoom breakout rooms for each team: 
-         https://tennessee.zoom.us/j/99284951954
+# Class on Sep 15
+   - First 20 min: Final project pitches (Regular zoom number https://tennessee.zoom.us/j/2766448345)
+   - Presentations of the Miniproject by the person selected in each group 
 
-   - Team 1 https://tennessee.zoom.us/j/95725208783
-   - Team 2 https://tennessee.zoom.us/j/93213528802
-   - Team 3 https://tennessee.zoom.us/j/94956030633
-   - Team 4 https://tennessee.zoom.us/j/91499146968
-   - Team 5 https://tennessee.zoom.us/j/95661325820
-   - Team 6 https://tennessee.zoom.us/j/95829164881
-   - Team 7 https://tennessee.zoom.us/j/98055424312
-   - Team 8 https://tennessee.zoom.us/j/96123759849
-   - Team 9 https://tennessee.zoom.us/j/97793867441
-   - Team 10 https://tennessee.zoom.us/j/92620040619
-   - Results of the voting    
+# Class on Sep 10
+   - First 20 min: Final project pitches (Regular zoom number https://tennessee.zoom.us/j/2766448345)
+   - Small group presentations of Miniproject1     
+      - Group 1 https://tennessee.zoom.us/j/95725208783 rharri63 jgray51 cmuncey mstanto4 jjack113 mphill66
+      - Group 2 https://tennessee.zoom.us/j/93213528802 jlangst6 isikkema jherman4 jbryan74 llocke2 wboyd8
+      - Group 3 https://tennessee.zoom.us/j/94956030633 jneely10 bmarti68 aravi hdoerr nskuda crizzo
+      - Group 4 https://tennessee.zoom.us/j/91499146968 jcharl12 ssmit285 rcongmon dxh594 dreid6 oiqbal
+      - Group 5 https://tennessee.zoom.us/j/95661325820 lcourtn5 kvyas1 jjelinek istone1 bli43 spatel95
+      - Group 6 https://tennessee.zoom.us/j/95829164881 mwermert aengelvi tnguye69 dnguye18 tmiles7 zdong7
+      - Group 7 https://tennessee.zoom.us/j/98055424312 wph612 vrajago2 rflint zables abhidya tjames17
+      - Group 8 https://tennessee.zoom.us/j/96123759849 alambe22 jgurganu cfei1 eswanger mmohandi lsangeor
+      - Group 9 https://tennessee.zoom.us/j/97793867441 ktailor1 bbible3 spatel84 chayne10 kfidan cmathew9 clampe1
+      - Gropp 10 https://tennessee.zoom.us/j/92620040619 rholmber jzhu34 mcox59 hjw848 hchoi9 jpi jalle119
+   - Results of the voting are tallied by the first person in the group at https://github.com/fdac20/news/issues/8   
    
 # Class on Sep 08
    - We will use regular zoom number today: https://tennessee.zoom.us/j/2766448345
