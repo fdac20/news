@@ -15,6 +15,7 @@
    
 # Class on Sep 15
    - First 20 min: Final project pitches (Regular zoom number https://tennessee.zoom.us/j/2766448345)
+      - I have created teams for each of the submitted pitches and added the first person to that team: please add your team members to your team (e.g., go to https://github.com/orgs/fdac20/teams/emojicontext and add team members)
    - Presentations of the Miniproject by the person selected in each group 
       - Group 1: jgray51, Group 2: isikkema, Group 3: chupi, Group 4: delayed, Group 5: lcourtn5, 
       - Group 6: tuckermiles70,  Group 7: abhidya, Group 8: alambe22, Group 9: bbible,  Group 10: hjw848  
