@@ -9,9 +9,15 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
+# Class on Sep 17
+   - Final project team formation
+   
+   
 # Class on Sep 15
    - First 20 min: Final project pitches (Regular zoom number https://tennessee.zoom.us/j/2766448345)
    - Presentations of the Miniproject by the person selected in each group 
+      - Group 1: jgray51, Group 2: isikkema, Group 3: chupi, Group 4: delayed, Group 5: lcourtn5, 
+      - Group 6: tuckermiles70,  Group 7: abhidya, Group 8: alambe22, Group 9: bbible,  Group 10: hjw848  
 
 # Class on Sep 10
    - First 20 min: Final project pitches (Regular zoom number https://tennessee.zoom.us/j/2766448345)
