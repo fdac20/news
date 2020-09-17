@@ -9,8 +9,27 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
+# Class on Sep 24 (complete project proposals)
+
+    Final project proposals are due at the end of the class
+    The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk).
+    The proposal should provide
+        an objective
+        a brief motivation for the project,
+        detailed discussion of the data that will be obtained or used in the project,
+        responsibilities of each member, along with
+        a time-line of milestones, and
+        the expected outcome
+    The proposal pdf will be committed to fdac20/ProjectName/proposal.pdf
+
+# Class on Sep 22
+   - Lecture on databases
+   - Introducing GCP 
+
 # Class on Sep 17
    - Final project team formation
+   - Most teams formed (create fdac20/ProjectName repo and a team of the same name; invite members of the team)
+   - Start brainstorming/writing final project proposal (see Sep 24)
    
    
 # Class on Sep 15
