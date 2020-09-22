@@ -25,7 +25,7 @@
 # Class on Sep 22
    - Please fill project teams: https://github.com/orgs/fdac20/teams, the first person in the pitch can add the rest. 
    - !!!Do a pull request on Miniproject1 if you have not done so yet: will stop accepting PRs for MP1 on Thursday. If you experience difficulties, please let me know!!!
-   - Lecture on databases.
+   - Lecture on data discovery and data storing (databases).
    - Introducing Miniproject2.
 
 # Class on Sep 17
