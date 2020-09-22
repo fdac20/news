@@ -23,8 +23,10 @@
     The proposal pdf will be committed to fdac20/ProjectName/proposal.pdf
 
 # Class on Sep 22
-   - Lecture on databases
-   - Introducing GCP 
+   - Please fill project teams: https://github.com/orgs/fdac20/teams, the first person in the pitch can add the rest. 
+   - Do a pull request on Miniproject1 if you have not done so yet: will stop accepting PRs for MP1 on Thursday.  
+   - Lecture on databases.
+   - Introducing Miniproject2.
 
 # Class on Sep 17
    - Final project team formation
