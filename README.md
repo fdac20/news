@@ -9,6 +9,11 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
+# Class on Sep 29 
+  - Schedule for Miniproject2
+  - Introducing GCP
+  - Other matters as needed
+
 # Class on Sep 24 (complete project proposals)
 
     Final project proposals are due at the end of the class
