@@ -9,6 +9,9 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
+# A special zoom number with final project team rooms: https://tennessee.zoom.us/j/99284951954
+   - please join using SSO using your vols email account to be automatically assigned to your room 
+   
 # Class on Sep 29 
   - Schedule for Miniproject2
   - Introducing GCP
