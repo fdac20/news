@@ -11,7 +11,12 @@
 
 # A special zoom number with final project team rooms: https://tennessee.zoom.us/j/99284951954
    - please join using SSO using your vols email account to be automatically assigned to your room 
-   
+
+# Class on Oct 1
+  - Questions on gcp
+  - Introducing MP3
+  - Work on final projects
+
 # Class on Sep 29 
   - Schedule for Miniproject2: Due on Oct 6 end of class
   - Introducing GCP
