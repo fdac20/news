@@ -63,7 +63,7 @@ sure I know to look at it sooner.
        ssh -pYOURPORT -L8888:localhost:8888 -i ~/.ssh/id_rsa yournetid@da2.eecs.utk.edu
       ```
   * Windows 10 has ubuntu subsystem: use that please
-https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_overview
+  https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 
   * Putty is an ssh client for earlier versions of windows, please avoid if you have Win10 or later
