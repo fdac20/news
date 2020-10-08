@@ -9,8 +9,26 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
-# A special zoom number with final project team rooms: https://tennessee.zoom.us/j/99284951954
-   - please join using SSO using your vols email account to be automatically assigned to your room 
+# Please use a zoom number for you final project team
+  - apppermissions jbryan74,jherman4
+  - bikeshare jgurganu,jpi,mcox59
+  - billboard100 jcharl12,lsangeor,rholmber
+  - debateanalysis istone1,jneely10,mwermert,tjames17,wboyd8
+  - digitalcurrency bli43,hchoi9,zdong7
+  - emojicontext abhidya,bbible3,cmuncey,llocke2,rflint
+  - foodrec cfei1,dnguye18,hdoerr,hjw848,isikkema
+  - kicktool ssmit285
+  - medicalbenchmarks aravi,jjelinek,tnguye69,vrajago2
+  - networkintrusion crizzo,dxh594,nskuda
+  - newsbias alambe22,cmathew9,spatel95
+  - olympics jgray51,jjack113,mstanto4
+  - presidentialpoll chayne10,eswanger,jlangst6,oiqbal,zables
+  - ratemyprofessors mphill66,rharri63,spatel84
+  - securityvulnerabilities aengelvi,dreid6
+  - spotifysong jalle119,ktailor1,kvyas1,rcongmon
+  - stockprices bmarti68,jzhu34,mmohandi
+  - titleiv clampe1,kfidan,lcourtn5
+  - twittersentiment tmiles7,wph612
 
 # Class on Oct 8
   - Work on final projects or
