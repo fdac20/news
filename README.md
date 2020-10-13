@@ -30,6 +30,17 @@
   - titleiv clampe1,kfidan,lcourtn5
   - twittersentiment tmiles7,wph612
 
+# Class on Oct 15
+  - MP# Part A Due
+  - Work on final projects or
+  - Ask questions
+
+# Class on Oct 13
+  - Introducing MP3 Part B
+  - Work on final projects or
+  - Ask questions
+
+
 # Class on Oct 8
   - Work on final projects or
   - Ask questions
