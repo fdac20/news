@@ -10,25 +10,22 @@
   - Org chart: rough timeline and responsibilities for each member 
 
 # Please use a zoom number for you final project team
-  - apppermissions jbryan74,jherman4
-  - bikeshare jgurganu,jpi,mcox59
-  - billboard100 jcharl12,lsangeor,rholmber
-  - debateanalysis istone1,jneely10,mwermert,tjames17,wboyd8
+  - NewsBias: https://tennessee.zoom.us/j/91408896943
+  - Olympics: https://tennessee.zoom.us/j/96713656851
+  - TwitterSentiment: https://tennessee.zoom.us/j/96416981430
+  - NetworkIntrustion: https://tennessee.zoom.us/j/95517214080
+  - AppPermissions: https://tennessee.zoom.us/j/91672070940
+  - SecurityVulnerabilities: https://tennessee.zoom.us/j/96606022135
+  - Emoji Context: https://tennessee.zoom.us/j/7355437957
+  - Debate Analysis/presidentialpoll?: https://tennessee.zoom.us/j/8671212362
+  - Billboard100/spotifysong: https://tennessee.zoom.us/j/3939099316
+  - RoadSafety/bikeshare?: https://tennessee.zoom.us/j/7887946203 
   - digitalcurrency bli43,hchoi9,zdong7
-  - emojicontext abhidya,bbible3,cmuncey,llocke2,rflint
   - foodrec cfei1,dnguye18,hdoerr,hjw848,isikkema
-  - kicktool ssmit285
   - medicalbenchmarks aravi,jjelinek,tnguye69,vrajago2
-  - networkintrusion crizzo,dxh594,nskuda
-  - newsbias alambe22,cmathew9,spatel95
-  - olympics jgray51,jjack113,mstanto4
-  - presidentialpoll chayne10,eswanger,jlangst6,oiqbal,zables
   - ratemyprofessors mphill66,rharri63,spatel84
-  - securityvulnerabilities aengelvi,dreid6
-  - spotifysong jalle119,ktailor1,kvyas1,rcongmon
   - stockprices bmarti68,jzhu34,mmohandi
   - titleiv clampe1,kfidan,lcourtn5
-  - twittersentiment tmiles7,wph612
 
 # Class on Oct 15
   - MP# Part A Due
@@ -39,7 +36,6 @@
   - Introducing MP3 Part B
   - Work on final projects or
   - Ask questions
-
 
 # Class on Oct 8
   - Work on final projects or
