@@ -24,10 +24,10 @@
   - RateMyProfessors: https://tennessee.zoom.us/j/8145700408
   - Presidential Poll: https://tennessee.zoom.us/j/4698520661
   - Digital Currency: https://zoom.us/j/93762046342?pwd=TlA4TVZ0UVVCc3lxVG8vYmNYQW1wZz09
-  - bikeshare: jgurganu,johnpi1,michael-cox
-  - stockprices bmarti68,jzhu34,mmohandi
-  - titleiv clampe1,kfidan,lcourtn5
-
+  - stockprices:  https://zoom.us/j/5985407628?pwd=L3hwTnVzV3NsOERaR3lVY0Y3OXpvUT09 
+  - bikeshare: https://tennessee.zoom.us/j/97472848970
+  - titleiv: https://tennessee.zoom.us/j/92931020017
+  
 # Class on Oct 15
   - MP# Part A Due
   - Work on final projects or
