@@ -17,13 +17,14 @@
   - AppPermissions: https://tennessee.zoom.us/j/91672070940
   - SecurityVulnerabilities: https://tennessee.zoom.us/j/96606022135
   - Emoji Context: https://tennessee.zoom.us/j/7355437957
-  - Debate Analysis/presidentialpoll?: https://tennessee.zoom.us/j/8671212362
+  - Debate Analysis: https://tennessee.zoom.us/j/8671212362
   - Billboard100/spotifysong: https://tennessee.zoom.us/j/3939099316
-  - RoadSafety/bikeshare?: https://tennessee.zoom.us/j/7887946203 
-  - digitalcurrency bli43,hchoi9,zdong7
-  - foodrec cfei1,dnguye18,hdoerr,hjw848,isikkema
-  - medicalbenchmarks aravi,jjelinek,tnguye69,vrajago2
-  - ratemyprofessors mphill66,rharri63,spatel84
+  - RoadSafety(medicalbenchmarks): https://tennessee.zoom.us/j/7887946203
+  - FoodRec: https://tennessee.zoom.us/j/2365079269
+  - RateMyProfessors: https://tennessee.zoom.us/j/8145700408
+  - Presidential Poll: https://tennessee.zoom.us/j/4698520661
+  - Digital Currency: https://zoom.us/j/93762046342?pwd=TlA4TVZ0UVVCc3lxVG8vYmNYQW1wZz09
+  - bikeshare: jgurganu,johnpi1,michael-cox
   - stockprices bmarti68,jzhu34,mmohandi
   - titleiv clampe1,kfidan,lcourtn5
 
