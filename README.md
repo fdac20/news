@@ -27,9 +27,25 @@
   - stockprices:  https://zoom.us/j/5985407628?pwd=L3hwTnVzV3NsOERaR3lVY0Y3OXpvUT09 
   - bikeshare: https://tennessee.zoom.us/j/97472848970
   - titleiv: https://tennessee.zoom.us/j/92931020017
-  
+
+# Class on Oct 27
+  - Introducing MP3 Part C
+  - Work on final projects or
+  - Ask questions
+
+# Class on Oct 22
+  - MP3 Part B Due
+  - Work on final projects or
+  - Ask questions
+
+# Class on Oct 20
+  - [MP3 Part A status](https://github.com/fdac20/Miniproject3/blobs/master/STATUSA.md)
+  - Work on final projects or
+  - Ask questions
+
+
 # Class on Oct 15
-  - MP# Part A Due
+  - MP3 Part A Due
   - Work on final projects or
   - Ask questions
 
