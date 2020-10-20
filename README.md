@@ -39,7 +39,7 @@
   - Ask questions
 
 # Class on Oct 20
-  - [MP3 Part A status](https://github.com/fdac20/Miniproject3/blobs/master/STATUSA.md)
+  - [MP3 Part A status](https://github.com/fdac20/Miniproject3/blob/master/STATUSA.md)
   - Work on final projects or
   - Ask questions
 
