@@ -12,7 +12,7 @@
 # Please use a zoom number for you final project team
   - NewsBias: https://tennessee.zoom.us/j/91408896943
   - Olympics: https://tennessee.zoom.us/j/96713656851
-  - TwitterSentiment: https://tennessee.zoom.us/j/96416981430
+  - TwitterSentiment: https://tennessee.zoom.us/j/5611854477
   - NetworkIntrustion: https://tennessee.zoom.us/j/95517214080
   - AppPermissions: https://tennessee.zoom.us/j/91672070940
   - SecurityVulnerabilities: https://tennessee.zoom.us/j/96606022135
