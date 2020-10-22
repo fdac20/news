@@ -10,23 +10,23 @@
   - Org chart: rough timeline and responsibilities for each member 
 
 # Please use a zoom number for you final project team
-  - NewsBias: https://tennessee.zoom.us/j/91408896943
+  - s+ NewsBias: https://tennessee.zoom.us/j/91408896943
   - Olympics: https://tennessee.zoom.us/j/96713656851
-  - TwitterSentiment: https://tennessee.zoom.us/j/5611854477
+  - s+ TwitterSentiment: https://tennessee.zoom.us/j/5611854477
   - NetworkIntrustion: https://tennessee.zoom.us/j/95517214080
   - AppPermissions: https://tennessee.zoom.us/j/91672070940
   - SecurityVulnerabilities: https://tennessee.zoom.us/j/96606022135
-  - Emoji Context: https://tennessee.zoom.us/j/7355437957
+  - s- Emoji Context: https://tennessee.zoom.us/j/7355437957
   - Debate Analysis: https://tennessee.zoom.us/j/8671212362
   - Billboard100/spotifysong: https://tennessee.zoom.us/j/3939099316
   - RoadSafety(medicalbenchmarks): https://tennessee.zoom.us/j/7887946203
   - FoodRec: https://tennessee.zoom.us/j/2365079269
-  - RateMyProfessors: https://tennessee.zoom.us/j/8145700408
+  - s+ RateMyProfessors: https://tennessee.zoom.us/j/8145700408
   - Presidential Poll: https://tennessee.zoom.us/j/4698520661
   - Digital Currency: https://zoom.us/j/93762046342?pwd=TlA4TVZ0UVVCc3lxVG8vYmNYQW1wZz09
-  - stockprices:  https://zoom.us/j/5985407628?pwd=L3hwTnVzV3NsOERaR3lVY0Y3OXpvUT09 
-  - bikeshare: https://tennessee.zoom.us/j/97472848970
-  - titleiv: https://tennessee.zoom.us/j/92931020017
+  - s+ stockprices:  https://zoom.us/j/5985407628?pwd=L3hwTnVzV3NsOERaR3lVY0Y3OXpvUT09 
+  - s- bikeshare: https://tennessee.zoom.us/j/97472848970
+  - s- titleiv: https://tennessee.zoom.us/j/92931020017
 
 # Class on Oct 27
   - Introducing MP3 Part C
