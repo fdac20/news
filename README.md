@@ -23,10 +23,25 @@
   - FoodRec: https://tennessee.zoom.us/j/2365079269
   - s+ RateMyProfessors: https://tennessee.zoom.us/j/8145700408
   - Presidential Poll: https://tennessee.zoom.us/j/4698520661
-  - Digital Currency: https://zoom.us/j/93762046342?pwd=TlA4TVZ0UVVCc3lxVG8vYmNYQW1wZz09
+  - s+ Digital Currency: https://zoom.us/j/93762046342?pwd=TlA4TVZ0UVVCc3lxVG8vYmNYQW1wZz09
   - s+ stockprices:  https://zoom.us/j/5985407628?pwd=L3hwTnVzV3NsOERaR3lVY0Y3OXpvUT09 
   - s- bikeshare: https://tennessee.zoom.us/j/97472848970
   - s- titleiv: https://tennessee.zoom.us/j/92931020017
+
+# Class on Nov 10
+  - MP3 Part D is introduced
+
+# Class on Nov 5
+  - Questions on MP3C: MP3 Part C is Due at the end of class
+  - Work on final projects
+
+
+# Class on Nov 3
+  - Questions on MP3 Part C
+  - Work on final projects
+
+# Class on Oct 29
+  - ** No class: Engineering day **
 
 # Class on Oct 27
   - Introducing MP3 Part C
