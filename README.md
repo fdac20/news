@@ -1,5 +1,7 @@
+# Please reserve Final Project Presentation date
+   - Nov 19, Nov 24, During Final Exam
 
-# Final Project Reports (Due Dec TBD)
+# Final Project Reports (Due Dec on the final exam date)
   Similar to progress reports with additional sections:
   - Objective (research question)
   - Data that was used: how obtained, how processed, integrated, and validated
