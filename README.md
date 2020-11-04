@@ -1,7 +1,7 @@
 # Please reserve Final Project Presentation date
-   - Nov 19, Nov 24, During Final Exam
+   - Nov 19, Nov 24, During Final Exam (1:00 p.m. – 3:15 p.m. Tuesday, December 8)
 
-# Final Project Reports (Due Dec on the final exam date)
+# Final Project Reports (Due on the final exam date 1:00 p.m. – 3:15 p.m. Tuesday, December 8)
   Similar to progress reports with additional sections:
   - Objective (research question)
   - Data that was used: how obtained, how processed, integrated, and validated
@@ -13,15 +13,15 @@
 
 # Please use a zoom number for you final project team
   - s+ NewsBias: https://tennessee.zoom.us/j/91408896943
-  - Olympics: https://tennessee.zoom.us/j/96713656851
+  - s+ Olympics: https://tennessee.zoom.us/j/96713656851
   - s+ TwitterSentiment: https://tennessee.zoom.us/j/5611854477
   - NetworkIntrustion: https://tennessee.zoom.us/j/4128432326
-  - AppPermissions: https://tennessee.zoom.us/j/91672070940
-  - SecurityVulnerabilities: https://tennessee.zoom.us/j/96606022135
+  - s+ AppPermissions: https://tennessee.zoom.us/j/91672070940
+  - s+ SecurityVulnerabilities: https://tennessee.zoom.us/j/96606022135
   - s- Emoji Context: https://tennessee.zoom.us/j/7355437957
-  - Debate Analysis: https://tennessee.zoom.us/j/8671212362
-  - Billboard100/spotifysong: https://tennessee.zoom.us/j/3939099316
-  - RoadSafety(medicalbenchmarks): https://tennessee.zoom.us/j/7887946203
+  - s+ Debate Analysis: https://tennessee.zoom.us/j/8671212362
+  - s+ Billboard100/spotifysong: https://tennessee.zoom.us/j/3939099316
+  - s+ RoadSafety(medicalbenchmarks): https://tennessee.zoom.us/j/7887946203
   - FoodRec: https://tennessee.zoom.us/j/2365079269
   - s+ RateMyProfessors: https://tennessee.zoom.us/j/8145700408
   - Presidential Poll: https://tennessee.zoom.us/j/4698520661
