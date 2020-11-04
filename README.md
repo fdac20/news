@@ -20,7 +20,8 @@
   - s+ SecurityVulnerabilities: https://tennessee.zoom.us/j/96606022135
   - s- Emoji Context: https://tennessee.zoom.us/j/7355437957
   - s+ Debate Analysis: https://tennessee.zoom.us/j/8671212362
-  - s+ Billboard100/spotifysong: https://tennessee.zoom.us/j/3939099316
+  - s+ Billboard100: https://tennessee.zoom.us/j/3939099316
+  - spotifysong: https://tennessee.zoom.us/j/98380578587
   - s+ RoadSafety(medicalbenchmarks): https://tennessee.zoom.us/j/7887946203
   - FoodRec: https://tennessee.zoom.us/j/2365079269
   - s+ RateMyProfessors: https://tennessee.zoom.us/j/8145700408
