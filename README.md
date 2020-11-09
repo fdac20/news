@@ -15,21 +15,21 @@
   - s+ NewsBias: https://tennessee.zoom.us/j/91408896943
   - s+ Olympics: https://tennessee.zoom.us/j/96713656851
   - s+ TwitterSentiment: https://tennessee.zoom.us/j/5611854477
-  - NetworkIntrustion: https://tennessee.zoom.us/j/4128432326
+  - s+ NetworkIntrustion: https://tennessee.zoom.us/j/4128432326
   - s+ AppPermissions: https://tennessee.zoom.us/j/91672070940
   - s+ SecurityVulnerabilities: https://tennessee.zoom.us/j/96606022135
-  - s- Emoji Context: https://tennessee.zoom.us/j/7355437957
+  - s+ Emoji Context: https://tennessee.zoom.us/j/7355437957
   - s+ Debate Analysis: https://tennessee.zoom.us/j/8671212362
   - s+ Billboard100: https://tennessee.zoom.us/j/3939099316
-  - spotifysong: https://tennessee.zoom.us/j/98380578587
   - s+ RoadSafety(medicalbenchmarks): https://tennessee.zoom.us/j/7887946203
-  - FoodRec: https://tennessee.zoom.us/j/2365079269
   - s+ RateMyProfessors: https://tennessee.zoom.us/j/8145700408
-  - Presidential Poll: https://tennessee.zoom.us/j/4698520661
   - s+ Digital Currency: https://zoom.us/j/93762046342?pwd=TlA4TVZ0UVVCc3lxVG8vYmNYQW1wZz09
   - s+ stockprices:  https://zoom.us/j/5985407628?pwd=L3hwTnVzV3NsOERaR3lVY0Y3OXpvUT09 
+  - s+ titleiv: https://tennessee.zoom.us/j/92931020017
   - s- bikeshare: https://tennessee.zoom.us/j/97472848970
-  - s- titleiv: https://tennessee.zoom.us/j/92931020017
+  - s- Presidential Poll: https://tennessee.zoom.us/j/4698520661
+  - s+ spotifysong: https://tennessee.zoom.us/j/321 855 4360
+  - s+ FoodRec: https://tennessee.zoom.us/j/2365079269
 
 # Class on Nov 10
   - MP3 Part D is introduced
