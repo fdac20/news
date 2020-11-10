@@ -1,3 +1,7 @@
+# TNVoice (TN Volunteer Online Instructor & Course Evaluations) 
+   - Will open on Monday, November 16 at 8:00 am, and will remain open until midnight on Tuesday, December 1. https://utk.campuslabs.com
+   - Please let me know how you'd like to improve this course
+
 # Please reserve Final Project Presentation date
    - Nov 19, Nov 24, During Final Exam (1:00 p.m. – 3:15 p.m. Tuesday, December 8)
 
@@ -31,8 +35,12 @@
   - s+ spotifysong: https://tennessee.zoom.us/j/321 855 4360
   - s+ FoodRec: https://tennessee.zoom.us/j/2365079269
 
-# Class on Nov 10
+# Class on Nov 12
   - MP3 Part D is introduced
+
+# Class on Nov 10
+  - Questions
+  - Work on final projects
 
 # Class on Nov 5
   - Questions on MP3C: MP3 Part C is Due at the end of class
