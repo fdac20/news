@@ -21,9 +21,9 @@
        14. Emoji Context: 24th, Final, 19th
 
    - Tentative slots 
-      - Nov 19: TwitterSentiment, Olympics, Presidential Poll? 
+      - Nov 19: TwitterSentiment, Olympics -> maybe 24, 
       - Nov 24: FoodRec, AppPermissions, Spotify Song, Emoji Context
-      - Final: Security Vulnerabilities, Digital Currency, TitleIV, RoadSafety, StockPrices, KickTool, ..
+      - Final: Security Vulnerabilities, Digital Currency, TitleIV, RoadSafety, StockPrices, KickTool, Presidential Poll
       
 # Final Project Reports (Due on the final exam date 1:00 p.m. – 3:15 p.m. Tuesday, December 8)
   Similar to progress reports with additional sections:
