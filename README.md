@@ -4,7 +4,27 @@
 
 # Please reserve Final Project Presentation date
    - Nov 19, Nov 24, During Final Exam (1:00 p.m. – 3:15 p.m. Tuesday, December 8)
+   - Preferences 
+       1. TwitterSentiment:   Nov 19, Nov 24
+       2. Olympics: Nov 24, Nov 19
+       3. Security Vulnerabilities: Final Exam, 24th, 19th
+       4. Digital Currency: Final Exam, 24th, 19th
+       5. FoodRec:  Nov 24, Final
+       6. AppPermissions:  Nov 24, Final
+       7. TitleIV: Final, Nov 24th, Nov 19th
+       8. RoadSafety: Final Exam, 24th,
+       9. StockPrices: Final Exam, 24th,
+       10. Spotify Song: Nov 24, Final
+       11. KickTool: Final Exam, 24th, 19th
+       12. Presidential Poll: Final Exam, 24th
+       13. BikeShare: Final Exam, 24th
+       14. Emoji Context: 24th, Final, 19th
 
+   - Tentative slots 
+      - Nov 19: TwitterSentiment, Olympics, Presidential Poll? 
+      - Nov 24: FoodRec, AppPermissions, Spotify Song, Emoji Context
+      - Final: Security Vulnerabilities, Digital Currency, TitleIV, RoadSafety, StockPrices, KickTool, ..
+      
 # Final Project Reports (Due on the final exam date 1:00 p.m. – 3:15 p.m. Tuesday, December 8)
   Similar to progress reports with additional sections:
   - Objective (research question)
