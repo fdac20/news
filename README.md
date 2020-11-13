@@ -23,11 +23,12 @@
        16. RateMyProfessors: Final, 24
        17. NewsBias: Final, 24
        18: NetworkIntrusion, 24, Final
+       19. Billboard 100, 24, Final
 
 
    - Tentative slots 
       - Nov 19: TwitterSentiment, Olympics -> maybe move to 24, 
-      - Nov 24: FoodRec, AppPermissions, Spotify Song, Emoji Context, NetworkIntrusion
+      - Nov 24: FoodRec, AppPermissions, Spotify Song, Emoji Context, NetworkIntrusion, Billboard 100
       - Final: Security Vulnerabilities, Digital Currency, TitleIV, RoadSafety, StockPrices, KickTool, Presidential Poll, Debate, RateMyProfessor, NewsBias
       
 # Final Project Reports (Due on the final exam date 1:00 p.m. – 3:15 p.m. Tuesday, December 8)
