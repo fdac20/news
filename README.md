@@ -19,11 +19,16 @@
        12. Presidential Poll: Final Exam, 24th
        13. BikeShare: Final Exam, 24th
        14. Emoji Context: 24th, Final, 19th
+       15. DebateAnalysis: Final, 24
+       16. RateMyProfessors: Final, 24
+       17. NewsBias: Final, 24
+       18: NetworkIntrusion, 24, Final
+
 
    - Tentative slots 
-      - Nov 19: TwitterSentiment, Olympics -> maybe 24, 
-      - Nov 24: FoodRec, AppPermissions, Spotify Song, Emoji Context
-      - Final: Security Vulnerabilities, Digital Currency, TitleIV, RoadSafety, StockPrices, KickTool, Presidential Poll
+      - Nov 19: TwitterSentiment, Olympics -> maybe move to 24, 
+      - Nov 24: FoodRec, AppPermissions, Spotify Song, Emoji Context, NetworkIntrusion
+      - Final: Security Vulnerabilities, Digital Currency, TitleIV, RoadSafety, StockPrices, KickTool, Presidential Poll, Debate, RateMyProfessor, NewsBias
       
 # Final Project Reports (Due on the final exam date 1:00 p.m. – 3:15 p.m. Tuesday, December 8)
   Similar to progress reports with additional sections:
@@ -54,6 +59,18 @@
   - s- Presidential Poll: https://tennessee.zoom.us/j/4698520661
   - s+ spotifysong: https://tennessee.zoom.us/j/321 855 4360
   - s+ FoodRec: https://tennessee.zoom.us/j/2365079269
+
+# Class on Nov 24
+  - FoodRec, AppPermissions, Spotify Song, Emoji Context, NetworkIntrusion presentations
+
+# Class on Nov 19
+  - TwitterSentiment Presentation (possibly Olympics)
+  - Answer questions on MP3 Part D
+  
+  
+# Class on Nov 17
+  - MP3 Part D feature extraction is due
+  - MP3 Part D Analysis introduced 
 
 # Class on Nov 12
   - MP3 Part D is introduced
