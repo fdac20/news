@@ -27,9 +27,9 @@
 
 
    - Tentative slots 
-      - Nov 19: TwitterSentiment, Olympics -> maybe move to 24, 
-      - Nov 24: FoodRec, AppPermissions, Spotify Song, Emoji Context, NetworkIntrusion, Billboard 100
-      - Final: Security Vulnerabilities, Digital Currency, TitleIV, RoadSafety, StockPrices, KickTool, Presidential Poll, Debate, RateMyProfessor, NewsBias
+      - Nov 19: TwitterSentiment 
+      - Nov 24: FoodRec, AppPermissions, Spotify Song, Emoji Context, NetworkIntrusion, Billboard 100, Olympics
+      - Final: Security Vulnerabilities, Digital Currency, TitleIV, RoadSafety, StockPrices, KickTool, Presidential Poll, Debate, RateMyProfessor, NewsBias, BikeShare
       
 # Final Project Reports (Due on the final exam date 1:00 p.m. – 3:15 p.m. Tuesday, December 8)
   Similar to progress reports with additional sections:
