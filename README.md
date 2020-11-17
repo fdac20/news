@@ -26,8 +26,8 @@
        19. Billboard 100, 24, Final
 
 
-   - Tentative slots 
-      - Nov 19: TwitterSentiment, KickTool (up to 20min per presentattion)
+#  Presentations
+      - Nov 19: KickTool, TwitterSentiment (up to 20min per presentattion)
       - Nov 24: FoodRec, AppPermissions, Spotify Song, Emoji Context, NetworkIntrusion, Billboard 100, Olympics (up to 10/presentation)
       - Final: Security Vulnerabilities, Digital Currency, TitleIV, RoadSafety, StockPrices, Presidential Poll, Debate, RateMyProfessor, NewsBias, BikeShare (up to 11m/presentation)
       
@@ -59,15 +59,7 @@
   - s- bikeshare: https://tennessee.zoom.us/j/97472848970
   - s- Presidential Poll: https://tennessee.zoom.us/j/4698520661
   - s+ spotifysong: https://tennessee.zoom.us/j/321 855 4360
-  - s+ FoodRec: https://tennessee.zoom.us/j/2365079269
-
-# Class on Nov 24
-  - FoodRec, AppPermissions, Spotify Song, Emoji Context, NetworkIntrusion presentations
-
-# Class on Nov 19
-  - TwitterSentiment Presentation (possibly Olympics)
-  - Answer questions on MP3 Part D
-  
+  - s+ FoodRec: https://tennessee.zoom.us/j/2365079269  
   
 # Class on Nov 17
   - MP3 Part D feature extraction is due
