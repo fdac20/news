@@ -62,7 +62,7 @@
   - s+ FoodRec: https://tennessee.zoom.us/j/2365079269  
   
 # Class on Nov 17
-  - MP3 Part D feature extraction is due
+  - MP3 Part D feature extraction is due on Nov 24
   - MP3 Part D Analysis introduced 
 
 # Class on Nov 12
